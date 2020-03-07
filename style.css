@@ -21,7 +21,6 @@
   border-radius: 10px;
 }
 
-
 form {
   border: solid 1px black;
   display: flex;
@@ -68,7 +67,7 @@ footer {
 @media (max-width: 549px){
   .hidden--mobile {
     display: none !important;
-  }  
+  }
 
   nav {
     display: flex;
@@ -107,16 +106,12 @@ footer {
   }
 }
 
-@media (min-width: 550px){
-  #jumbotron {
-    height: 60vh;
-  }
-
+@media (min-width: 550px) {
   nav > ul {
     display: flex;
     justify-content: space-evenly;
     padding: 0 0;
-  } 
+  }
 
   nav > ul > li {
     display: inline-block;
