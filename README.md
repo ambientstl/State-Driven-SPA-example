@@ -1,2 +1,2 @@
-# Savvy Coders State-Driven Single Page Application Example
-
+# State-Driven-SPA-example-with-Navigo-and-Axios
+State-driven SPA with Navigo routing and Axios API calls

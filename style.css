@@ -42,6 +42,7 @@ footer {
   border-top: solid 1px black;
   padding: 2rem 2rem 4rem;
   margin: 1rem 1rem;
+  clear: both;
 }
 
 #bio {
@@ -62,6 +63,10 @@ footer {
   height: auto;
   width: 92.5%;
   margin: auto;
+}
+
+.blog-post {
+  margin: 1rem 4rem;
 }
 
 @media (max-width: 549px){
